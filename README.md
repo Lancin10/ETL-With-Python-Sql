@@ -3,7 +3,7 @@
 This project consist to build an ETL from two CSV files that contain air pollution data from 8 cities between the years 2017 and 2020.
 
 
-<b>Tools: Jupyter Notebook, Python, PostgreSQL, PGAdmin, Pandas.</b>
+<b>Tools: #Jupyter Notebook, #Python, #PostgreSQL, PGAdmin, Pandas.</b>
 
 ### Extract 
 Loaded 2 csv files from the Resources folder using pd.read_csv.
